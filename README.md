@@ -1,7 +1,7 @@
 # HelluvaGPT
 HelluvaGPT is a simple LLM (Large Language Model) inspired by Andrej Kaparthy's videos
-on [tokenization]() and building a [LLM from scratch]().
-The example model provided is trained on a small dataset of [Helluva Boss]()
+on [tokenization](https://youtu.be/zduSFxRajkE) and building a [LLM from scratch](https://youtu.be/kCc8FmEb1nY).
+The example model provided is trained on a small dataset of [Helluva Boss](https://en.wikipedia.org/wiki/List_of_Helluva_Boss_episodes)
 transcripts.
 
 # Usage
